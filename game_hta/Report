@@ -1,0 +1,9 @@
+Những gì em đã làm được:
+Xử lý logic:
+-Khi người dùng truy cập sẽ hiện lên trang login, nếu người dùng chưa có tài khoản thì ấn vào Register để tạo 
+-Sau khi ấn login, người dùng sẽ truy cập vào trang chủ trò chơi(Home). người dùng sẽ chọn đáp án, nhấn gửi
+- Sau khi gửi, sẽ hiện lên bản result cho biết số điểm ng chơi và ng chơi đó chơi trong bao lâu
+- Nhấn logout để đăng xuất, giao diện sẽ trở về trang đăng nhập
+
+
+EM chưa phân trang được các câu hỏi trong phần home, mặc dù code ở phần view em đã có xử lý phân trang
