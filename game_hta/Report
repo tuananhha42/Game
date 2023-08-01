@@ -7,3 +7,6 @@ Em xin trình bày xử lý logic của trang web như sau:
 - Sau khi gửi đáp án, hiển thị bảng result để biết đc số điểm cũng như thời gian làm bài
 - Nhấn logout để đăng xuất, lúc này quay trở lại giao diện login
 
+Tài liệu tham khảo: https://data-flair.training/blogs/create-quiz-application-python-django/
+Em sử dụng đoạn code này để thực hiện phần tính điểm, tính thời gian
+Còn login, logout, phân trang, em sử dụng code đã được học
