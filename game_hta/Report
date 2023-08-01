@@ -1,0 +1,9 @@
+Em xin trình bày xử lý logic của trang web như sau:
+- Đầu tiên, người dùng truy cập sẽ hiện lên giao diện Login, nếu chưa có tài khoản thì sễ ấn vào Register để tạo tài khoản
+- Sau khi login thì vào mục trò chơi, người chơi sẽ chọn đáp án cho các câu hỏi
+  + Em đã phân 4 câu hỏi vào 1 trang
+  + Căn chỉnh mục phân trang ra giữa
+  + Nhấn submut để gửi đáp án
+- Sau khi gửi đáp án, hiển thị bảng result để biết đc số điểm cũng như thời gian làm bài
+- Nhấn logout để đăng xuất, lúc này quay trở lại giao diện login
+
